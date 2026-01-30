@@ -15,7 +15,7 @@ VR 화학 실험실 안전 교육 시뮬레이션
 - 위험 용액을 혼합하면 가스,폭발 파티클 생성
 
 ## 담당 스크립트
-- Beaker.cs
+<li><a href="./Assets/2.Scripts/Beaker.cs">Beaker.cs</a></li>
 - BeakerDetector.cs
 - Cylinder.cs
 
