@@ -15,9 +15,9 @@ VR 화학 실험실 안전 교육 시뮬레이션
 - 위험 용액을 혼합하면 가스,폭발 파티클 생성
 
 ## 담당 스크립트
-- <li><a href="./Assets/2.Scripts/Beaker.cs">Beaker.cs</a></li>
-- <li><a href="./Assets/2.Scripts/BeakerDetector.cs">BeakerDetector.cs</a></li>
-- <li><a href="./Assets/2.Scripts/Cylinder.cs">Cylinder.cs</a></li>
+<li><a href="./Assets/2.Scripts/Beaker.cs">Beaker.cs</a></li>
+<li><a href="./Assets/2.Scripts/BeakerDetector.cs">BeakerDetector.cs</a></li>
+<li><a href="./Assets/2.Scripts/Cylinder.cs">Cylinder.cs</a></li>
 
 ## 🦾 기술 스택
 - 언어 : C#
