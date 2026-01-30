@@ -19,7 +19,8 @@ VR 화학 실험실 안전 교육 시뮬레이션
   <li><a href="./Assets/2.Scripts/Beaker.cs">Beaker.cs</a></li>
   <li><a href="./Assets/2.Scripts/BeakerDetector.cs">BeakerDetector.cs</a></li>
   <li><a href="./Assets/2.Scripts/Cylinder.cs">Cylinder.cs</a></li>
-</ul>>
+</ul>
+
 ## 🦾 기술 스택
 - 언어 : C#
 - 엔진 : Unity Engine
